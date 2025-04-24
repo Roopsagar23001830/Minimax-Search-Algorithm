@@ -1,6 +1,6 @@
 <h1>ExpNo 6: Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: N.NAVYA SREE         </h3>
-<h3>Register Number: 212223040138          </h3>
+<h3>Name : Roop Sagar S L         </h3>
+<h3>Register Number : 212223040175          </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
